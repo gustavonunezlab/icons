@@ -2,7 +2,7 @@
 Some icons for leaflet
 
 # Usage
-
+```
 var blueIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/gustavonunezlab/icons/main/blue-matte.png'
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
@@ -13,3 +13,4 @@ var blueIcon = new L.Icon({
 });
 
 L.marker([-42, -65], {icon: blueIcon}).addTo(map);
+```
