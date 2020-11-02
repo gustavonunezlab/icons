@@ -1,5 +1,5 @@
 # Icons
-Some icons for leaflet made by me. If you need more icons, contact me at guscostaf@gmail.com
+Some icons for leaflet made by me. If you need more icons, send request at guscostaf@gmail.com
 
 # Usage
 ```
