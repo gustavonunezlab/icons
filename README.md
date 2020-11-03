@@ -1,8 +1,10 @@
 # Icons
 Icons for leaflet made by me. If you need more icons, send request at guscostaf@gmail.com
 
-Types of icon: airport, bank, educative, gym, goberment, hospital, hotel, church, office, shipport, rest, restaurant, market.
+Types of icon: airport, bank, educative, gym, goberment, hospital, hotel, home, church, office, shipport, rest, restaurant, market.
+
 Types of marker: icon (classic marker), star, diamond, square.
+
 Colours: darkred, red, orange, yellow, darkblue, blue, lightblue, violet, darkpink, pink, darkgreen, green, lightgreen, black, white.
 
 All possible combinations.
